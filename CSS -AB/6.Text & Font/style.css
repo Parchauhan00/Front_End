@@ -1,0 +1,22 @@
+
+
+body {
+    font-size: 'silkscren',verdana;
+}
+
+h1 {
+    color: aqua;
+    text-align: center;
+
+    font-weight: 500;
+}
+
+p {
+   font-family: super;
+}
+
+a {
+    text-decoration: underline;
+    text-decoration-color: chartreuse;
+    text-decoration-style: wavy;
+}
