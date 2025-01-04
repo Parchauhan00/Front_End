@@ -1,0 +1,27 @@
+main {
+    border: 5px dashed brown;
+    padding: 40px;
+    margin: 40px;
+    text-align: center;
+    border-radius: 10px;
+    /* width: 50%; */
+    width: 50vw;
+}
+
+header {
+    font-size: 2em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+
+section {
+    border: 5px dotted green;
+    padding: 40px;
+    margin: 40px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+}
