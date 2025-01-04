@@ -1,7 +1,20 @@
+
+* {
+  font-style: italic;
+}
+
 p {
+    font-size: -24;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background-color: blueviolet;
+  background-color: rgb(204, 174, 231);
 }
 body {
     background-color: aqua;
+}
+#hip {
+  background-color: blue;
+}
+
+.myp1 {
+  background-color: brown;
 }
